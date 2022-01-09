@@ -1,3 +1,14 @@
 "# calc_desktop_app_kivy" 
 
-1. To run calc:
+ To run calculator:
+
+###### In your environment run:
+
+* ___pip install kivy___
+* run calcualator.py
+
+
+####Any problems to run?
+####Please contact me :)
+
+
