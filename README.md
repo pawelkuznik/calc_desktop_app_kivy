@@ -1,4 +1,4 @@
-"# calc_desktop_app_kivy" 
+# calc_desktop_app_kivy
 
  To run calculator:
 
